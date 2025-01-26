@@ -12,5 +12,3 @@
   <img src="screenshot/screenshot_1.png" alt="Screenshot 1" width="30%" >
   <img src="screenshot/screenshot_2.png" alt="Screenshot 2" width="30%" >
 </div>
-
----

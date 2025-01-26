@@ -1,16 +1,16 @@
-# assignment3
+# 📱 Online/Offline Newapaper
 
-A new Flutter project.
+## 🌟 Features<br>
+🌐 Online Mode: Fetch the latest news articles from a REST API.<br>
+📴 Offline Mode: Access previously cached articles when no internet connection is available.<br>
+💾 Local Storage: Uses Hive/SQLite for local data caching.<br>
+🚀 State Management: Powered by Bloc for efficient state management.<br>
 
-## Getting Started
+## 🌟 Screenshots
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="screenshot/screenshot_1.png" alt="Screenshot 1" width="30%" >
+  <img src="screenshot/screenshot_2.png" alt="Screenshot 2" width="30%" >
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---

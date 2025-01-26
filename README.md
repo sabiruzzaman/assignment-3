@@ -3,7 +3,7 @@
 ## 🌟 Features<br>
 🌐 Online Mode: Fetch the latest news articles from a REST API.<br>
 📴 Offline Mode: Access previously cached articles when no internet connection is available.<br>
-💾 Local Storage: Uses Hive/SQLite for local data caching.<br>
+💾 Local Storage: Uses SQLite for local data caching.<br>
 🚀 State Management: Powered by Bloc for efficient state management.<br>
 
 ## 🌟 Screenshots
